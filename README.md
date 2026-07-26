@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Rathod</h1>
 
+<p align="center">
+  <img src="./assets/profile.png" width="420"/>
+</p>
+
 <h3 align="center">
 Software Engineer | Backend Developer | Cloud Enthusiast | AI Builder
 </h3>
