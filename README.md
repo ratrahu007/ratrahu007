@@ -41,13 +41,38 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡸⢿⣿⢻⣿⣿⣿⣿⣿⣿⣟⣾⣟⣷⣿⣯⣿⠭⣉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣳⡿⣯⣿⣽⣿⡳⠆⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+<p align="center">⚡ ⚡ ⚡</p>
 
+```console
+rahul@azure:~$ ssh production
+
+Authentication successful...
+
+Loading profile...
+██████████████████████ 100%
+
+User         : Rahul Rathod
+Role         : Software Engineer
+Focus        : Backend Engineering
+Language     : Java
+Framework    : Spring Boot
+Cloud        : Azure
+Container    : Docker
+Status       : Building Production Systems
+
+Connection established.
+
+rahul@production:~$
+```
+
+<p align="center">⚡ ⚡ ⚡</p>
 
 <h3 align="center">
 Software Engineer | Backend Developer | Cloud Enthusiast | AI Builder
 </h3>
 
 
+<p align="center">⚡ ⚡ ⚡</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+Spring+Boot+Developer;React+%7C+Docker+%7C+Azure;Building+Production+Ready+Applications;AI+Powered+Product+Builder;From+Localhost+%E2%86%92+Production+%F0%9F%9A%80" />
@@ -65,6 +90,8 @@ Currently I'm focused on building production-ready applications using Java, Spri
 
 ---
 
+<p align="center">⚡ ⚡ ⚡</p>
+
 # 🎯 Current Focus
 
 - 🚀 Building **ProofTracker**
@@ -76,6 +103,9 @@ Currently I'm focused on building production-ready applications using Java, Spri
 - 📚 System Design
 
 ---
+
+<p align="center">⚡ ⚡ ⚡</p>
+
 
 # 🛠 Tech Stack
 
@@ -129,6 +159,8 @@ Currently I'm focused on building production-ready applications using Java, Spri
 
 ---
 
+<p align="center">⚡ ⚡ ⚡</p>
+
 # 🚀 Featured Projects
 
 ## 🧠 GenMillenauts
@@ -153,6 +185,8 @@ AI Powered Mental Wellness Platform
 
 ### Links
 
+<p align="center">⚡ ⚡ ⚡</p>
+
 🌐 Live
 
 https://genmillenauts.social
@@ -171,6 +205,8 @@ https://github.com/ratrahu007/genMillenauts
 
 AI Powered Proof-Based Goal Execution System
 
+<p align="center">⚡ ⚡ ⚡</p>
+
 ### Highlights
 
 - AI Coach
@@ -183,6 +219,8 @@ AI Powered Proof-Based Goal Execution System
 - REST APIs
 - Spring Boot
 - JWT Authentication
+
+  <p align="center">⚡ ⚡ ⚡</p>
 
 ---
 
@@ -215,6 +253,8 @@ AI Powered Proof-Based Goal Execution System
 ✔ Production Debugging
 
 ---
+
+<p align="center">⚡ ⚡ ⚡</p>
 
 # 📈 GitHub Statistics
 
@@ -279,6 +319,8 @@ rahulrathod6624@gmail.com
 - AI Engineering
 
 ---
+
+<p align="center">⚡ ⚡ ⚡</p>
 
 # 💡 Philosophy
 
